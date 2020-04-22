@@ -13,4 +13,4 @@ Spring Boot : projet jpa + web + thymeleaf
 - Spring
 - JPA
 - Maven
-- thymeleaf
+- thymeleaf = Allows HTML to be correctly displayed in browsers and as static prototypes.
