@@ -13,3 +13,4 @@ Spring Boot : projet jpa + web + thymeleaf
 - Spring
 - JPA
 - Maven
+- thymeleaf
