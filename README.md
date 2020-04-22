@@ -1,16 +1,14 @@
 # DemoSpringBoot
 
-Spring Boot : projet jpa + web + thymeleaf
-
+Projet DemoSpringBoot : projet jpa + web
 
 
 
 <b>Fonctionnalités présentes : </b>
-- 
+- Liste des formation en fonction des themes
 
 
 <b>Technologies : </b>
 - Spring
 - JPA
 - Maven
-- thymeleaf = Allows HTML to be correctly displayed in browsers and as static prototypes.
