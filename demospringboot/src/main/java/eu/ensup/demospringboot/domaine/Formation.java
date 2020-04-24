@@ -35,4 +35,8 @@ public class Formation {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+	@Override
+	public String toString() {
+		return "Formation [id=" + id + ", theme=" + theme + ", description=" + description + "]";
+	}
 }

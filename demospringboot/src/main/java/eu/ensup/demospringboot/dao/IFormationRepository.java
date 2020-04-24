@@ -1,12 +1,12 @@
 package eu.ensup.demospringboot.dao;
 
-import java.awt.List;
 import java.util.ArrayList;
+import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import eu.ensup.demospringboot.domaine.Formation;
 
 public interface IFormationRepository extends JpaRepository<Formation, Long> {
-	ArrayList<Formation>findByTheme(String theme);
+	List<Formation>findByTheme(String theme);
 }
